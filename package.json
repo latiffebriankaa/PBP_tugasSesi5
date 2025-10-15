@@ -1,0 +1,24 @@
+{
+  "name": "pbp_tugassesi5",
+  "version": "1.0.0",
+  "description": "- Nama : latip\r - Nim : 20240040036\r ## dikerjakan oleh\r - Nama : \r - Nim :\r ## dikerjakan oleh \r - Nama :\r - Nim",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latiffebriankaa/PBP_tugasSesi5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/latiffebriankaa/PBP_tugasSesi5/issues"
+  },
+  "homepage": "https://github.com/latiffebriankaa/PBP_tugasSesi5#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
