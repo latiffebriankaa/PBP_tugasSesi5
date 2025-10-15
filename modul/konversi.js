@@ -1,0 +1,1 @@
+// buat fungsi calciusToFahrenheit(c)
